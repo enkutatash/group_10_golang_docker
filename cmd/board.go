@@ -1,4 +1,4 @@
-package cmd
+package main
 
 type Board struct{
 	Turn string 
